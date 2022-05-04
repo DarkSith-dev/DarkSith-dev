@@ -1,6 +1,4 @@
-<p align="center" padding-button="2rem">
-  <img src="https://cdn.discordapp.com/attachments/675127441177575424/967804909376397412/My_project_4.png">
-</p>
+![Mastermind, Pixel Jeff](https://user-images.githubusercontent.com/51385145/166616431-1b9726b0-d740-45fb-8f07-f212e77ccbde.gif)
 
 <p>Trabalho em projetos envolvendo Engenharia de Software, Analise e Desenvolvimento de Sistemas.  Sou apaixonado por desenvolver, empreendedorismo e tecnologia. Observo a área de tecnologia da informação  tendo um crescimento exponencial entre a área de negócios e tecnologia. Tendo novo entendimento de como  inovar de   formas que extraia o melhor valor deles é possibilitando atingir uma grande vantagem competitiva.</p>
 
